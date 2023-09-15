@@ -1,7 +1,7 @@
 package controller;
 
 import java.sql.*;
-//Hola
+//Holahh
 
 public class Conexion {
 	
